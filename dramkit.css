@@ -1,0 +1,67 @@
+body{
+	background: #382665;
+
+}
+#title{
+	text-align: center;
+	font-size: 7rem;
+	font-family: 'DM Serif Text', serif;
+	text-shadow: 3px 0 #bc2dce;
+}
+.set{
+	margin: 10% auto;
+}
+.dram{
+	outline: none;
+	border: 10px solid #404B69;
+	border-radius: 15px;
+	display: inline-block;
+	text-align: center;
+	font-family: 'arvo', cursive;
+	font-size:5rem;
+	line-height: 1.5;
+	font-weight: 900;
+	text-shadow: 3px 0 #DBEDF3;
+	color: #DA0463;
+	width: 150px;
+	height: 150px;
+	margin: 10px;
+
+}
+footer{
+	padding: 10%;
+	text-align: center;
+	color: #fff;
+}
+.e{
+	background-image: url(./images/drum1.jpg);
+	background-size: cover;
+}
+.a{
+	background-image: url(./images/drum2.jpg);
+	background-size: cover;
+}
+.s{
+	background-image: url(./images/drum3.jpg);
+	background-size: cover;
+}
+.d{
+	background-image: url(./images/drum4.jpg);
+	background-size: cover;
+}
+.j{
+	background-image: url(./images/drum5.jpg);
+	background-size: cover;
+}
+.k{
+	background-image: url(./images/drum6.jpg);
+	background-size: cover;
+}
+.l{
+	background-image: url(./images/cash.jpg);
+	background-size: cover;
+}
+.press{
+	box-shadow: 0 3px 4px 0 #DBEDF3;
+	opacity: 0.5;
+}
